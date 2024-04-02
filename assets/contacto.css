@@ -1,0 +1,17 @@
+/*Sección form*/
+.form-label,
+.form-input, {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#contactForm {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#contactForm button {
+  background-color: #f56a6a;
+  color: white;
+}
